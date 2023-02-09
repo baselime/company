@@ -8,8 +8,5 @@ Details about the founder are here.
 
 # Logos
 
-<img src="https://github.com/baselime/company/blob/main/logos/png/logo-wide.png" width="300">
-<img src="https://github.com/baselime/company/blob/main/logos/png/logo.png" width="100">
-
-More logos variants <a href="https://github.com/baselime/company/tree/main/logos">here</a>.
+All logos variants <a href="https://github.com/baselime/company/tree/main/logos">here</a>.
 
