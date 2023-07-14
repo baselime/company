@@ -3,7 +3,7 @@
 <img src="https://github.com/baselime/company/blob/main/founder/boris_bw.jpg" width="200">
 
 
-Boris is the founder and CEO of [Baselime](https://baselime.io), a conituous observabilty platform for serverless applications.
+Boris is the founder and CEO of [Baselime](https://baselime.io), an observability platform for serverless applications.
 
 Before this, he graduated in Physics and Aerospace Engineering and worked on back-end systems and infrastructure at multiple startups. During these years he was drawn to cloud-native and serverless technologies, and always ended up being the guardian of the logging and monitoring systems in the teams he joined.
 

@@ -1,10 +1,10 @@
 # About Baselime
 
-**Continuous Observability for Serverless Architectures**
+**Observability for Serverless Architectures**
 
-Baselime is re-imagining how developers build and maintain their serverless applications. We enable serverless-native developers to discover bugs before thier users do, letting them escape the chaos of managing observability resources through point-and-click graphical user interfaces with our Observability as Code capabilities.
+Baselime is re-imagining how developers build and maintain their serverless applications. We enable developers to quickly discover bugs before their users do, gain actionable insights into the performance and health of their serverless applications, and ensure uninterrupted operations.
 
-Details about the founder are here.
+Details about the founder [here](./founder/README.md).
 
 # Logos
 
